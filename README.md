@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**mtheus0409/mtheus0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Theus! 👋
 
-Here are some ideas to get you started:
+### Desenvolvedor Front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor Front-end em formação, interessado na criação de interfaces modernas, acessíveis e experiências digitais de qualidade.
+
+## Sobre mim
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU.
+- 💻 Experiência profissional com desenvolvimento Front-end no DETRAN-PE.
+- 🧩 Interesse em componentização e Design Systems.
+- 🚀 Sempre buscando evoluir minhas habilidades em desenvolvimento web.
+
+## Tecnologias e ferramentas
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github" />
+</div>
+
+## Áreas de interesse
+
+- Desenvolvimento de interfaces responsivas.
+- Componentes reutilizáveis.
+- Acessibilidade web.
+- Design Systems.
+- Animações e interações.
+
+## Contato
+
+- LinkedIn: [Meu perfil](SEU_LINKEDIN)
