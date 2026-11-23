@@ -28,4 +28,4 @@ Desenvolvedor Front-end em formação, interessado na criação de interfaces mo
 
 ## Contato
 
-- LinkedIn: [Meu perfil](SEU_LINKEDIN)
+- LinkedIn: [Meu perfil](https://www.linkedin.com/in/matheus-coutinho-dos-santos-9b24a0355/)
